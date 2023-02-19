@@ -1,0 +1,7 @@
+Php artisan migrate:refresh
+php artisan db:seed --class=RolesSeeder
+go to register page(http://127.0.0.1:8000/register)
+go to logout page(http://127.0.0.1:8000/logout)
+go to Login page(http://127.0.0.1:8000/login) and login
+then go to this link (http://127.0.0.1:8000/mayorkay)
+Refresh your dashboard or login again you will see all the menu appearing

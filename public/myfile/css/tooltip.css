@@ -1,0 +1,14 @@
+.w3-tooltip{position:relative!important}.w3-tooltip .w3-text{display:none!important}.w3-tooltip:hover .w3-text{display:inline-block!important}
+.tooltip-position{position: absolute;left:0px;bottom:27px;}
+.w3-tag{background-color:#000;color:#fff;display:inline-block;padding-left:8px;padding-right:8px;text-align:center}
+@media print{
+    table{
+        display: table;
+        width: 100%;
+    }
+    th, td
+    {
+        border: 1px solid black;
+        text-align:center;
+    }
+}
